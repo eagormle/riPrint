@@ -21,6 +21,7 @@ python -m venv venv
 .\venv\Scripts\Activate
 
 Once activated, you can install the required packages using 'pip install -r requirements.txt'.
+```
 
 ## Git Commands
 
