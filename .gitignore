@@ -158,3 +158,24 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+# Venv stuff
+/.bin/
+/.include/
+/.lib/
+/.share/
+pyvenv.cfg
+.gitignore
+bin/activate
+bin/activate.csh
+bin/activate.fish
+bin/Activate.ps1
+.gitignore
+bin/pip
+bin/pip3
+bin/pip3.10
+bin/python
+bin/python3
+bin/python3.10
+bin/scapy
+share/man/man1/scapy.1
