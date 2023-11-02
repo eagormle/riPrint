@@ -179,3 +179,12 @@ bin/python3
 bin/python3.10
 bin/scapy
 share/man/man1/scapy.1
+riprint/Scripts/activate
+riprint/Scripts/activate.bat
+riprint/Scripts/Activate.ps1
+riprint/Scripts/deactivate.bat
+riprint/Scripts/pip.exe
+riprint/Scripts/pip3.11.exe
+riprint/Scripts/pip3.exe
+riprint/Scripts/pythonw.exe
+riprint/Scripts/python.exe
