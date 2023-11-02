@@ -114,9 +114,9 @@ For network packet capture and transmission capabilities, this project relies on
 
 ## Download and install Npcap
 
-    1. Visit the [download page](https://npcap.com/#download)
-    2. download the most recent version for your machine
-    3. Walk through the installer and it should be good!
+1. Visit the [download page](https://npcap.com/#download)
+2. download the most recent version for your machine
+3. Walk through the installer and it should be good!
 
 ## Nmap system download
 
@@ -124,9 +124,9 @@ Install namp for system so python-nmap libray can be used
 
 ## Download and install Nmap
 
-    1. Visit the [download page](https://nmap.org/download.html#windows)
-    2. download the most recent version for your machine
-    3. Walk through the installer and it should be good!
+1. Visit the [download page](https://nmap.org/download.html#windows)
+2. download the most recent version for your machine
+3. Walk through the installer and it should be good!
 
 
 ## Questions
