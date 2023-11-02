@@ -112,7 +112,7 @@ Ensure to resolve any feedback/comments on your PR before it gets merged!
 
 For network packet capture and transmission capabilities, this project relies on the Npcap library. Ensure you have Npcap installed on your system to utilize network-related functionalities.
 
-## Download and install Npcap
+### Download and install Npcap
 
 1. Visit the [download page](https://npcap.com/#download)
 2. download the most recent version for your machine
@@ -122,7 +122,7 @@ For network packet capture and transmission capabilities, this project relies on
 
 Install namp for system so python-nmap libray can be used
 
-## Download and install Nmap
+### Download and install Nmap
 
 1. Visit the [download page](https://nmap.org/download.html#windows)
 2. download the most recent version for your machine
