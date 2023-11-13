@@ -2,3 +2,4 @@ scapy
 pysnmp
 python-nmap
 zeroconf
+ipp
